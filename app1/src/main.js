@@ -4,7 +4,7 @@ import router from './router'
 import store from './store'
 
 Vue.config.productionTip = false
-console.log("文件被修改")
+
 console.log("15555");
 new Vue({
   router,
