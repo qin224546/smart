@@ -3,10 +3,9 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
-
-
 Vue.config.productionTip = false
 console.log("文件被修改")
+console.log("123");
 new Vue({
   router,
   store,
